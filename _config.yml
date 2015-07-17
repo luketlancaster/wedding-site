@@ -2,50 +2,31 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
+title: L&J
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: BF947C
+  secondary: A37E6A
+  secondary-dark: 8A6A59
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Jess Pesut
   pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  position: Girl
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
 
-- name: Larry Parker
+- name: Luke Lancaster
   pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  position: Boy
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +36,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
